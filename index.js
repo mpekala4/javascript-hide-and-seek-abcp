@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-var getElement = document.querySelector('head title');
+var getElement = document.querySelector('body nested');
 return getElement;
 }
