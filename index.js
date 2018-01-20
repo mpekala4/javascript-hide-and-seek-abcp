@@ -1,1 +1,3 @@
-document.querySelector('div')
+function getFirstSelector(){
+  document.querySelector('div')
+}
