@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-var getElement = document.getElementsByTagName('ul.ranked-list');
-return getElement
+var getElement = document.getElementsByTagName('div');
+getFirstSelector()
 }
