@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-var getElement = document.getElementsByTagName('ul');
+var getElement = document.querySelector('ul');
 console.log(getElement);
 }
