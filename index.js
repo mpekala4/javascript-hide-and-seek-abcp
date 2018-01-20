@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-var getElement = document.querySelector('ul.ranked-list div');
+var getElement = document.querySelector('div.nested target');
 return getElement;
 }
