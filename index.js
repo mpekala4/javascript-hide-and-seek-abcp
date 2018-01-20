@@ -1,4 +1,4 @@
 function getFirstSelector(selector){
-var getElement = document.getElementByID("nested");
+var getElement = document.getElementByTagName(div);
 return getElement;
 }
